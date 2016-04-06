@@ -61,7 +61,7 @@ A Practice consists of one or more Activities
 ## Description
 Successful Project Scoping will see: A Clearly identified opportunity at the start and outline a need for a solution on completion. Stakeholders will be recognised
 initially and involved upon completion of scoping activities. High level requirements will be addressed during the scoping activities and upon completion of these activities they will be concieved. The need for a Software System is confirmed during the scoping activities, though there is no direct focus on the architecture of the Software system, this is addressed following a more in depth architecture workshop, dedicated solely on requirements and software system alpha advancement. Work is initiated at the start of a scoping excercise and remains unchanged at the conclusion of the scoping activities. The Way of Working is outlined during the scoping activities but unless a specific way of working workshop is run the alpha state is not advanced beyond the initial states. The Team should be seeded following completion of the scoping activities. 
-
+Project scoping can be carried out by Architects, Pre-Sales Solution Architects, Sales account managers in conjunction with project PMs/TSMs
 ## Activities
 Discovery Session, POC/Pilot Scoping
 
