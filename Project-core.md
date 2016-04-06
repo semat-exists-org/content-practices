@@ -1,11 +1,11 @@
 ----------
 # PRACTICE
 ## Name
-OpenPlatform Core
+Project Core
 ## Type
 Practice
 ## Author
-Marcel Wysocki Red Hat 2016
+Marcel Wysocki, Tim Jackson Red Hat 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -57,14 +57,12 @@ Way of Working|1|3
 Team|1|4
 
 ## Summary
-Agile approach to Scoping, Planning and implementing a Red Hat OpenPlatform Core
+Agile approach to Scoping, Planning and implementing a Red Hat Services Project Core
 utilising a recipe of Activities. 
 
 ## Description
-Agile approach to Scoping, Planning and implementing a Red Hat OpenPlatform Core
-. There are a number of activities associated with this practice and the scope c
-overs, Opportunity, agile planning, architecture (including agile user story requirements gathering), and agile delivery, Way of Working. Due to the large number of Activities
-associated with this practice, a number of the associated SEMAT Alphas are advanced significantly, see Alpha input/output tables below.
+Agile approach to Scoping, Planning and implementing a Red Hat Service Project Core
+. There are a number of activities associated with this practice and the scope covers, Opportunity, agile planning, architecture (including agile user story requirements gathering), and agile delivery, Way of Working. Due to the large number of Activities associated with this practice, a number of the associated SEMAT Alphas are advanced quite significantly, see Alpha input/output tables below.
 
 ## Activities
 Opportunity, Agile Planning, Architecture, Way of Working, Agile Delivery 
