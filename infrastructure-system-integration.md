@@ -1,11 +1,11 @@
 ----------
 # PRACTICE
 ## Name
-$title$
+Infrastructure system integration
 ## Type
 Practice
 ## Author
-$author$ $date$
+Red Hat 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -21,7 +21,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Customer|Ensure Stakeholder Satisfaction||
 |Customer|Use The System||
 |Solution|Understand the Requirements||
-|Solution|Shape the System||
+|Solution|Shape the System|1|
 |Solution|Implement the System||
 |Solution|Test the System||
 |Solution|Deploy the System||
@@ -36,35 +36,39 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ## Input Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|1|6
-Stakeholders|1|6
-Requirements|1|6
-Software System|0|6
-Work|0|6
-Way of Working|0|6
-Team|1|5
+Opportunity|1|2
+Stakeholders|1|1
+Requirements|1|1
+Software System|1|0
+Work|1|1
+Way of Working|1|1
+Team|1|1
 
 ## Output Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|2|6
-Stakeholders|2|6
-Requirements|2|6
-Software System|0|6
-Work|0|6
-Way of Working|1|6
-Team|1|5
+Opportunity|1|5
+Stakeholders|1|5
+Requirements|1|5
+Software System|1|5
+Work|1|5
+Way of Working|1|5
+Team|1|4
 
 ## Summary
-A Practice consists of one or more Activities
+Infrastructure system integration practice  
 
 ## Description
-$body$
+Infrastructure system integration practice covers any number of projects that involve infrastructure system in
+tegration. This could be Red Hat Standard Operating Environment or additional solution themes. This includes D
+evOps focused projects that may involve both Infrastructure and Middleware projects and practices.
+
 
 ## Activities
+Discovery Session, Modular Architecture Workshops
 
 ## Links
 $link$
 
 ## Tags
-$title$
+Infrastructure
