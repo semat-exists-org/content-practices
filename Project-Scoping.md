@@ -1,11 +1,11 @@
 ----------
 # PRACTICE
 ## Name
-$title$
+Project Scoping
 ## Type
 Practice
 ## Author
-$author$ $date$
+Red Hat 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -16,7 +16,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ## Activities included
 | Activity Area | Activity Space | Influenced |
 |---------------|----------------|------------|
-|Customer|Explore Possibilities||
+|Customer|Explore Possibilities|1|
 |Customer|Understand Stakeholders Needs||
 |Customer|Ensure Stakeholder Satisfaction||
 |Customer|Use The System||
@@ -36,35 +36,37 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ## Input Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|1|6
-Stakeholders|1|6
-Requirements|1|6
+Opportunity|1|1
+Stakeholders|1|1
+Requirements|1|0
 Software System|0|6
-Work|0|6
+Work|1|1
 Way of Working|0|6
-Team|1|5
+Team|0|5
 
 ## Output Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|2|6
-Stakeholders|2|6
-Requirements|2|6
+Opportunity|1|2
+Stakeholders|1|3
+Requirements|1|1
 Software System|0|6
-Work|0|6
-Way of Working|1|6
-Team|1|5
+Work|1|1
+Way of Working|1|1
+Team|1|1
 
 ## Summary
 A Practice consists of one or more Activities
 
 ## Description
-$body$
+Successful Project Scoping will see: A Clearly identified opportunity at the start and outline a need for a solution on completion. Stakeholders will be recognised
+initially and involved upon completion of scoping activities. High level requirements will be addressed during the scoping activities and upon completion of these activities they will be concieved. The need for a Software System is confirmed during the scoping activities, though there is no direct focus on the architecture of the Software system, this is addressed following a more in depth architecture workshop, dedicated solely on requirements and software system alpha advancement. Work is initiated at the start of a scoping excercise and remains unchanged at the conclusion of the scoping activities. The Way of Working is outlined during the scoping activities but unless a specific way of working workshop is run the alpha state is not advanced beyond the initial states. The Team should be seeded following completion of the scoping activities. 
 
 ## Activities
+Discovery Session, POC/Pilot Scoping
 
 ## Links
-$link$
+
 
 ## Tags
-$title$
+Scoping
