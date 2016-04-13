@@ -62,9 +62,13 @@ A Practice consists of one or more Activities
 $body$
 
 ## Activities
+Add links to Activities (in GitHub) 
+[Activity Template](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/activity-template.md)
 
 ## Links
 $link$
+[**RH Internal** Discovery Session Collateral](https://mojo.redhat.com/docs/DOC-1045852)
 
 ## Tags
 $title$
+Practice Discovery Session
