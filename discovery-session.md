@@ -18,11 +18,11 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 | Activity Area | Activity Space | Influenced |
 |---------------|----------------|------------|
-|Customer|Explore Possibilities||
-|Customer|Understand Stakeholders Needs||
+|Customer|Explore Possibilities|x|
+|Customer|Understand Stakeholders Needs|x|
 |Customer|Ensure Stakeholder Satisfaction||
 |Customer|Use The System||
-|Solution|Understand the Requirements||
+|Solution|Understand the Requirements|x|
 |Solution|Shape the System||
 |Solution|Implement the System||
 |Solution|Test the System||
@@ -73,7 +73,15 @@ The activity is usually face-to-face with the following people from the consulti
  5. project owner project member
 
 ## Activities
-Customer pre call, Agile requirements gathering
+
+[Design Thinking](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/design-thinking.md)
+
+[Maturity Model](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/maturity-model.md)
+
+[Nine Block Model](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/nine-block-model.md)
+
+[Discovery Session Preparation Call](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call.md)
+
 
 ## Links
 [https://www.redhat.com/en/resources/red-hat-consulting-discovery-session-cloud-strategy](Red%20Hat%20Cloud%20Discovery%20Session)
