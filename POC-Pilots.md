@@ -33,28 +33,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Stop the Work||
 
 
-## Input Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|2|6
-Stakeholders|3|6
-Requirements|2|6
-Software System|0|6
-Work|1|6
-Way of Working|2|6
-Team|3|5
-
-## Output Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|3|6
-Stakeholders|4|6
-Requirements|4|6
-Software System|1|6
-Work|3|6
-Way of Working|2|6
-Team|4|5
-
 ## Summary
 POC/Pilots are used to establish the value of a technology within an opportunity.     
 

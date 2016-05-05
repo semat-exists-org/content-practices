@@ -33,28 +33,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Stop the Work||
 
 
-## Input Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|1|2
-Stakeholders|1|1
-Requirements|1|1
-Software System|1|0
-Work|1|1
-Way of Working|1|1
-Team|1|1
-
-## Output Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|1|5
-Stakeholders|1|5
-Requirements|1|5
-Software System|1|5
-Work|1|5
-Way of Working|1|5
-Team|1|4
-
 ## Summary
 Infrastructure system integration practice  
 

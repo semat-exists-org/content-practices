@@ -33,28 +33,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Stop the Work||
 
 
-## Input Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|1|1
-Stakeholders|1|1
-Requirements|1|0
-Software System|0|6
-Work|1|1
-Way of Working|0|6
-Team|0|5
-
-## Output Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|1|2
-Stakeholders|1|3
-Requirements|1|1
-Software System|0|6
-Work|1|1
-Way of Working|1|1
-Team|1|1
-
 ## Summary
 A Practice consists of one or more Activities
 

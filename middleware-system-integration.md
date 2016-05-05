@@ -33,28 +33,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Stop the Work||
 
 
-## Input Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|1|6
-Stakeholders|1|6
-Requirements|1|6
-Software System|0|6
-Work|0|6
-Way of Working|0|6
-Team|1|5
-
-## Output Alpha States
-Alpha | State | TotalStates
----| --- | ---
-Opportunity|2|6
-Stakeholders|2|6
-Requirements|2|6
-Software System|0|6
-Work|0|6
-Way of Working|1|6
-Team|1|5
-
 ## Summary
 Middleware System Integration Practice provides. 
 
