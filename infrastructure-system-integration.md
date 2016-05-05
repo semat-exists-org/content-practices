@@ -59,13 +59,11 @@ Team|1|4
 Infrastructure system integration practice  
 
 ## Description
-Infrastructure system integration practice covers any number of projects that involve infrastructure system in
-tegration. This could be Red Hat Standard Operating Environment or additional solution themes. This includes D
-evOps focused projects that may involve both Infrastructure and Middleware projects and practices.
+Infrastructure system integration practice covers any number of projects that involve infrastructure system integration. This could be Red Hat Standard Operating Environment or additional solution themes. This includes DevOps focused projects that may involve both Infrastructure and Middleware projects and practices.
 
 
 ## Activities
-Discovery Session, Modular Architecture Workshops
+Discovery Session, Modular Architecture Workshops, Architecture review, implementation activity
 
 ## Links
 $link$

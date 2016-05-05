@@ -80,6 +80,8 @@ The activity is usually face-to-face with the following people from the consulti
 
 [Nine Block Model](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/nine-block-model.md)
 
+https://github.com/SEMAT-Exists-Org/content-activities/blob/master/engagement-client-preparation-doc.md
+
 [Discovery Session Preparation Call](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call.md)
 
 
