@@ -1,11 +1,11 @@
 ----------
 # PRACTICE
 ## Name
-$title$
+Middleware System Integration
 ## Type
 Practice
 ## Author
-$author$ $date$
+Red Hat 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -18,7 +18,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |---------------|----------------|------------|
 |Customer|Explore Possibilities||
 |Customer|Understand Stakeholders Needs||
-|Customer|Ensure Stakeholder Satisfaction||
+|Customer|Ensure Stakeholder Satisfaction|1|
 |Customer|Use The System||
 |Solution|Understand the Requirements||
 |Solution|Shape the System||
@@ -56,15 +56,21 @@ Way of Working|1|6
 Team|1|5
 
 ## Summary
-A Practice consists of one or more Activities
+Middleware System Integration Practice provides. 
 
 ## Description
-$body$
+Middleware System Integration Practice provides an umbrella practice for collective activities and additional Practices.
+This practice can consist of one or more additional practices and associated activities and collectively forms a highly customisable framework
+for engaging and delivering Middleware Systems.
+
+## Practices
+[Discovery Session](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/discovery-session.md)
 
 ## Activities
+[Middleware System Architecture](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/middleware-system-arachitecture.md)
 
 ## Links
-$link$
+
 
 ## Tags
-$title$
+Middleware integration practice
