@@ -39,8 +39,12 @@ POC/Pilots are used to establish the value of a technology within an opportunity
 ## Description
 POC/Pilots are used to establish the value of a technology within an opportunity. Stakeholders should be involved initially and in agreement following a POC/Pilot. Requirements should be monitored and adjusted from coherent to acceptable following a defined and controlled POC/Pilot. Following a POC/Pilot a software system should be represented as a defined but not necessarily completed Enterprise architecture. A POC/Pilot requires Work that should be initiated and advanced to started. where a POC/Pilot represents a larger more involved project the chosen team, consisting of Client and Red Hat stakeholders and representatives should be collaborating initially and performing following the completion of a POC/Pilot.
 
+## Practices
+[Infrastructure System Integration](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/infrastructure-system-integration.md)
+
+
 ## Activities
-There should be a number of often technology focused activities that are combined to define the success criteria, context and execution of a POC/Pilot.  
+
 
 ## Links
 
