@@ -33,15 +33,15 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Stop the Work|X|
 
 ## Summary
-A Practice that defines the Activities required for the succesful delivery of a Red Hat Innovation Lab engagement.
+A Practice that defines the Activities required for the succesful delivery of a Red Hat OpenStack Platform deployment engagement.
 
 ## Description
-A Practice that defines the Activities required for the succesful delivery of a Red Hat Innovation Lab engagement.
+A Practice that defines the Activities required for the succesful delivery of a Red Hat OpenStack Platform deployment engagement.
 
 ## Activities
 Add links to Activities (in GitHub)
 [Customer preparation](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-customer-preparation.md)
-[Prerequisits validation](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-prerequisits-validation.md)
+[Prerequisites validation](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-prerequisites-validation.md)
 [Minimal deployment](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-minimal-deployment.md)
 [Integrations implementation](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-integrations-implementation.md)
 [Final Deployment](https://github.com/SEMAT-Exists-Org/content-activities/blob/openstack-deployment/OpenStack-final-deployment.md)
